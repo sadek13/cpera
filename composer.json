@@ -1,0 +1,19 @@
+{
+    "name": "sadek13/cpera",
+    "description": "Task Management App",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^8.0.28"
+    },
+    "autoload": {
+        "psr-4": {
+            "YourNamespace\\": "admin/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "YourNamespace\\Tests\\": "tests/"
+        }
+    }
+}

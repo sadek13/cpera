@@ -1,0 +1,14 @@
+1-email editing in employee-edit form
+
+
+2-photo uploading
+
+
+3-when adding members to division through division, sql is not giving me the rows with null division_id
+
+
+4-when trying to move a memeber to another team in the divisions page, the ones with nulll division ID are not getting displayed
+
+
+5-when to retrieve nonAssignenEmps. I'm getting no results in the left join
+
